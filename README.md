@@ -5,6 +5,10 @@
 
 This repository contains SQL queries designed to analyze and uncover insights from the Netflix dataset. The analysis includes various business problems such as identifying the most common content types, popular ratings, country-based content distribution, and more.
 
+## Preview
+
+![Netflix Movies and TV Shows Dashboard Preview](https://github.com/playingwithdata-and/Netflix-data-analysis/blob/main/Netflix%20Dashboard.png)
+
 ## 📝 Project Overview
 
 The Netflix dataset is analyzed to address several business questions and objectives, ranging from content trends, genre popularity, to specific director and actor analyses. This project demonstrates how SQL can be used to extract insights and solve real-world business problems.
